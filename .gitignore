@@ -1,0 +1,7 @@
+token.json
+.spotify_cache
+credentials.json
+*.env
+.env
+__pycache__/
+.ipynb_checkpoints/
